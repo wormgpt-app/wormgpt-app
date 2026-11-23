@@ -139,7 +139,7 @@ console.log(`أهلاً بك في عالم ${owner.username} 👑`);
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wormgpt-app&theme=onestar&no-frame=true&no-bg=false&bg_color=000000&margin-w=6&row=1&column=7" />
+  <img src="https://github-trophies.devomb.com/?username=wormgpt-app&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </p>
 
 <p align="center">
